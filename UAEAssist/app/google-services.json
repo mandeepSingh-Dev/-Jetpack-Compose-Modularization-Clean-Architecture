@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148826620257",
+    "project_id": "uaeassist-ad20d",
+    "storage_bucket": "uaeassist-ad20d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148826620257:android:5d06a28ced4f0e275bc520",
+        "android_client_info": {
+          "package_name": "com.uae.assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-aT_76UFVo_SaDgwCHSE2zZBcVyjGa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

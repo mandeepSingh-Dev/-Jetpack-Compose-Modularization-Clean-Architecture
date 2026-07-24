@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FeatureAuth</string>
+    <string name="log_in">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+</resources>
